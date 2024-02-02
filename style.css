@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.verde{
+	background-color: lightgreen;
+	
+}
+.azul{
+	background-color: cornflowerblue;
+	width: 50%;	
+}
+.gris{
+	background-color: darkgray;
+}
+.azulcielo{
+	background-color: skyblue;
+}
+.zapote{
+	background-color: coral;
+}
+.verdeCespe{
+	background-color: forestgreen;
+}
